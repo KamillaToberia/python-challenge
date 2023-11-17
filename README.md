@@ -4,7 +4,7 @@ Python challenge related files are in this repository.
 
 ##PyBank Analysis
 
-The data disponibilized for analyses we see the Months and the amount for each month.
+The data disponibilized for analysis we see the Months and the amount for each month.
 I created a text file with the financial analyses, you can see:
 -Total of months
 -Total
