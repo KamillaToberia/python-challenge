@@ -20,7 +20,7 @@ I created a text file with the financial analyses, you can see:
 
 -Copy the relative path to read the CSV file,
 
--Skip the header and print the CSV file to make sur it works and analyze the data,
+-Print the header of the Columm,
 
 -Calculate the total of months,
 
@@ -34,5 +34,33 @@ I created a text file with the financial analyses, you can see:
 
 -Export a text file with the results.
 
-![output](PyBank.png)
+##PyPoll Election
+
+The data disponibilized for the analysis we see the number ID of the voters, the County, and the Candidate.
+I created a text file with the results of elestion, you can see:
+- The total of votes,
+- The candidates name, percentage of votes and total of votes,
+- Name of the winner of election.
+
+###Steps
+
+-Import modules os and CSV,
+
+-Set the relative path to read and analyse the CSV file,\
+
+-Create the list to store the data,
+
+-Print the header of the Columm,
+
+-Count the total number of votes
+
+-Get the results of candidates and percent 
+
+- Get the winner names
+
+- Print the results
+
+- Create new text file with the name election_results.txt
+
+
 
