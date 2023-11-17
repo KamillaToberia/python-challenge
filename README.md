@@ -15,14 +15,23 @@ I created a text file with the financial analyses, you can see:
 ###Steps
 
 -Import the os module,
+
 -Read the data from the CSV file,
+
 -Copy the relative path to read the CSV file,
+
 -Skip the header and print the CSV file to make sur it works and analyze the data,
+
 -Calculate the total of months,
+
 -Calculate the total amount of profit,
+
 -Calculate the average,
+
 -Found the greatest increase and decrease,
+
 -Print the analysis
+
 -Export a text file with the results.
 
 
